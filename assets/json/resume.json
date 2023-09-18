@@ -1,69 +1,81 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Carlos Marques",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "carlos.a.marques@tecnico.ulisboa.pt",
+    "phone": "+351 926 324 704",
+    "url": "https://catralitos.github.com",
+    "summary": "A Master in Computer Science from Instituto Superior Técnico with a passion for programming and gaming.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Oeiras",
+      "countryCode": "PT",
+      "region": "Lisbon"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "itch.io",
+        "username": "Catralitos",
+        "url": "https://catralitos.itch.io"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Gamedev Técnico",
+      "position": "Game Director",
+      "url": "https://gamedev.tecnico.ulisboa.pt/",
+      "startDate": "2022-01-15",
+      "endDate": "",
+      "summary": "Pitched and am currently leading the team developing Paper Park: a 3D collect-a-thon platformer, set it an arts and crafts theme park diorama, developed in Unreal Engine 5. I’ve overseen producing the game and producing documentation like the GDD, bibles, and storyboards, as well as coordinating the team. Though I’ve also written Blueprint code and have experience with the engine.",
       "highlights": [
-        "Relativity"
+        
+      ]
+    },
+    {
+      "name": "Gamedev Técnico",
+      "position": "Member",
+      "url": "https://gamedev.tecnico.ulisboa.pt/",
+      "startDate": "2021-02-15",
+      "endDate": "",
+      "summary": "Gamedev Técnico is a student body within Instituto Superior Técnico, with the goal of making games. In GDT, I have participated in 20 game jams (and counting), as a game designer and programmer. I've also done art, level, systems, and audio design. \n I've led teams of people new to game development and mentored them to positive jam experiences.",
+      "highlights": [
+        
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Faculdade de Ciências da Universidade de Lisboa",
+      "url": "https://ciencias.ulisboa.pt/en",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2017-10-01",
+      "endDate": "2020-08-01",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
-  "awards": [
+      "courses": []
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Instituto Superior Técnico",
+      "url": "https://tecnico.ulisboa.pt/en/",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2020-10-01",
+      "endDate": "2022-12-01",
+      "score": "",
+      "courses": []
     }
   ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Portuguese",
       "fluency": "Native speaker"
     },
     {
