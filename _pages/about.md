@@ -5,7 +5,7 @@ permalink: /
 subtitle: Software Engineer and Game Developer
 
 profile:
-  align: justified
+  align: left
   # image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   #address: >
