@@ -19,7 +19,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     #gem 'mini_racer'
-    gem 'unicode_utils'
+    #gem 'unicode_utils'
     gem 'webrick'
 end
 group :other_plugins do
